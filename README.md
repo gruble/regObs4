@@ -75,7 +75,7 @@ Download new regions from [https://nedlasting.nve.no/gis/#].
 
 Overwrite /assets/json/varslingsomraader.json
 
-## Update Fylker and kommuner
+## Update counties and communities
 Download new json from [https://api01.nve.no/hydrology/forecast/landslide/test/api/Region/]
 Overwrite /assets/json/regions.json
 
